@@ -6,3 +6,9 @@ Download fileList.sh, then make it executable with
 ```bash
 chmod +x fileList.sh
 ```
+
+## Usage
+
+```bash
+sh fileList.sh [DIRECTORY]
+```
